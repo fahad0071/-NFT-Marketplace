@@ -15,6 +15,9 @@ This GitHub repository contains the code and resources for building an NFT marke
 
 ### ER Diagram
 
+<img src="s9.png" width="500" height="300">
+
+
 ### Features
 User registration and authentication
 Creation and listing of NFTs
